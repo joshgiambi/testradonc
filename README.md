@@ -1,3 +1,3 @@
 # Radiation Oncology 
 ## Gastric Cancer 
-- [Gastric](gastric.md)
+- [Gastric](/docs/gastric.md)
